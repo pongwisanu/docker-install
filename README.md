@@ -30,3 +30,5 @@ Basic Command
 
 Advance Command
 ------------
+view all storage 
+- docker system df -v
