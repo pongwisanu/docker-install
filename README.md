@@ -30,5 +30,6 @@ Basic Command
 
 Advance Command
 ------------
-view all storage 
-- docker system df -v
+
+System storage management
+- https://depot.dev/blog/docker-clear-cache
